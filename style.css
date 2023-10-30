@@ -1,0 +1,52 @@
+body{
+    background-color: black
+}
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(162, 32, 153);
+    column-width: auto;
+    padding-inline: 40px;
+    margin-inline: 10px;
+    text-overflow: left;
+    border-radius: 10%;
+    flex-wrap: wrap;
+}
+    .center {
+       font-display:  100px;
+       margin-right: 100px ;
+       margin-block: auto;
+       width: 50px; 
+
+  }
+
+   .contact-box{
+    width:600px;
+    line-height: 90px;
+    margin-left:  20px;;
+    padding-right:20px; 
+    border-bottom: 5px
+    
+ }
+ .contact-box h1{
+    text-align:left ;
+    margin:20px;
+    max-width:max-content;
+    
+ }
+    .contact-box form input,
+    .contact-box form textarea{
+        width: 60%;
+        padding:15px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    
+ }
+ 
+    
+ 
+
+
+
+    
+
+  
